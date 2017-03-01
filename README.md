@@ -4,6 +4,6 @@ Just another repository, you copycat
 ~~Strikethrough~~.
 1. Ordered List
 2. Ordered List 2
-- Undordered List
+- Unordered List
 
 [This is a link](www.google.com)
